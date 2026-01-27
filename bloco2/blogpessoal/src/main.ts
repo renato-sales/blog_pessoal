@@ -10,9 +10,9 @@ async function bootstrap() {
     .setTitle('Blog Pessoal')
     .setDescription('Projeto Blog Pessoal')
     .setContact(
-      'Generation Brasil',
-      'http://www.generationbrasil.online',
-      'generation@email.com',
+      'Renato Sales',
+      'https://github.com/renato-sales',
+      'renato_sales_@hotmail.com',
     )
     .setVersion('1.0')
     .addBearerAuth()
